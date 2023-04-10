@@ -1,6 +1,6 @@
 # PaginaRecados-js
 
-<h2> Aplicação: Página de recados desenvolvida como atividade avaliativa do módulo de Front End em JavaScript </h2>
+<h3> Aplicação: Página de recados desenvolvida como atividade avaliativa do módulo de Front End em JavaScript. </h3>
 <h4> Por Michele Ladanivski, Setembro/2022 </h4>
 
 <img src="https://user-images.githubusercontent.com/102632136/230983503-b3083ad0-ce4e-4785-8c63-28946bfbc4da.jpg" alt="Login">
