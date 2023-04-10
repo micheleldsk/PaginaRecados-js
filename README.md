@@ -1,4 +1,4 @@
-# PaginaRecados-js
+# PaginaRecados-js 🚀🚀🚀
 
 <h3> Aplicação: Página de recados desenvolvida como atividade avaliativa do módulo de Front End em JavaScript. </h3>
 <h4> Por Michele Ladanivski, Setembro/2022 </h4>
